@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/seluj78/pymatcha?style=for-the-badge) ![Travis (.com)](https://img.shields.io/travis/com/seluj78/pymatcha/dev?label=builds%20and%20tests&style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/seluj78/pymatcha?style=for-the-badge) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/seluj78/pymatcha?style=for-the-badge)
 # PyMatcha
-#### Made by [Jules Lasne](https://github.com/seluj78) and [Lauris Skraucis](https://github.com/suppalarry) 
+#### Made by [Jules Lasne](https://github.com/seluj78) and [Lauris Skraucis](https://github.com/suppalarry)  
 
 ## Summary
  - [Why ?](#why)
